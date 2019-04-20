@@ -8,4 +8,5 @@ for age in [21,34,56,72]:
     if(age==72):
         break
     print("its wrong")
+        
     
